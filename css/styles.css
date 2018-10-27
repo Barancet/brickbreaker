@@ -1,0 +1,75 @@
+#playStyle:hover{
+    -fx-background-color: #61a2b1;   
+
+}
+#playStyle{
+    -fx-font-family: "Courier New";
+    -fx-background-color:azure;
+    -fx-font-size: 34px;
+    -fx-background-radius: 8px;
+}
+#quitStyle:hover{
+    -fx-background-color: #61a2b1;   
+}
+
+#quitStyle{
+    -fx-font-family: "Courier New";
+    -fx-background-color:azure;
+    -fx-font-size: 34px;
+    -fx-background-radius:8;
+}
+
+#scoreStyle:hover{
+    -fx-background-color: #61a2b1;
+}
+#scoreStyle{
+    -fx-font-family: "Courier New";
+    -fx-background-color:azure;
+    -fx-font-size: 34px;
+    -fx-background-radius:8;
+}
+
+#continueStyle{
+    -fx-font-family: "Courier New";
+    -fx-background-color:azure;
+    -fx-font-size: 34px;
+    -fx-background-radius:8;
+}
+
+#currentStyle{
+    -fx-font-family: "Courier New";
+    -fx-background-color:azure;
+    -fx-font-size: 34px;
+    -fx-background-radius:8;
+}
+
+#currentStyle:hover{
+    -fx-background-color: #61a2b1;
+}
+
+#continueStyle:hover{
+    -fx-background-color: #61a2b1;
+}
+
+#instructionStyle{
+    -fx-font-family: "Courier New";
+    -fx-background-color:azure;
+    -fx-font-size: 34px;
+    -fx-background-radius:8;
+}
+#instructionStyle:hover{
+    -fx-background-color: #61a2b1;
+}
+
+
+.root{
+    -fx-background-image:url("../pics/brickscreen.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover, auto;     
+}
+
+.instructions{
+    -fx-background-image:url("../pics/instructions.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover, auto; 
+}
